@@ -1,0 +1,1748 @@
+{
+    "$id": 0,
+    "$type": "0|Databox.Dictionary.OrderedDictionary`2[[System.String, mscorlib],[Databox.DataboxObject+Database, Databox]], Databox",
+    "$rlength": 1,
+    "$rcontent": [
+        {
+            "$type": "1|System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[Databox.DataboxObject+Database, Databox]], mscorlib",
+            "locales_ui",
+            {
+                "$id": 1,
+                "$type": "2|Databox.DataboxObject+Database, Databox",
+                "entries": {
+                    "$id": 2,
+                    "$type": "3|Databox.Dictionary.OrderedDictionary`2[[System.String, mscorlib],[Databox.DataboxObject+DatabaseEntry, Databox]], Databox",
+                    "$rlength": 12,
+                    "$rcontent": [
+                        {
+                            "$type": "4|System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[Databox.DataboxObject+DatabaseEntry, Databox]], mscorlib",
+                            "ui_menu_new_game",
+                            {
+                                "$id": 3,
+                                "$type": "5|Databox.DataboxObject+DatabaseEntry, Databox",
+                                "selected": false,
+                                "data": {
+                                    "$id": 4,
+                                    "$type": "6|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.Dictionary`2[[System.Type, mscorlib],[Databox.DataboxType, Databox]], mscorlib]], mscorlib",
+                                    "comparer": {
+                                        "$id": 5,
+                                        "$type": "7|System.Collections.Generic.GenericEqualityComparer`1[[System.String, mscorlib]], mscorlib"
+                                    },
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 6,
+                                                "$type": "8|System.Collections.Generic.Dictionary`2[[System.Type, mscorlib],[Databox.DataboxType, Databox]], mscorlib",
+                                                "comparer": {
+                                                    "$id": 7,
+                                                    "$type": "9|System.Collections.Generic.ObjectEqualityComparer`1[[System.Type, mscorlib]], mscorlib"
+                                                },
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": {
+                                                            "$id": 8,
+                                                            "$type": "10|System.RuntimeType, mscorlib",
+                                                            "StringType, Databox"
+                                                        },
+                                                        "$v": {
+                                                            "$id": 9,
+                                                            "$type": "11|StringType, Databox",
+                                                            "OnValueChanged": null,
+                                                            "_string": "Nowa Gra",
+                                                            "InitValue": "Nowa Gra"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 10,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 11,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "New game",
+                                                            "InitValue": "New game"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 12,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 13,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Nouveau jeu",
+                                                            "InitValue": "Nouveau jeu"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 14,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 15,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Neues Spiel",
+                                                            "InitValue": "Neues Spiel"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 16,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 17,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u041d\u043e\u0432\u0430\u044f \u0438\u0433\u0440\u0430",
+                                                            "InitValue": "????? ????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 18,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 19,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Nuevo juego",
+                                                            "InitValue": "Nuevo juego"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_menu_load_game",
+                            {
+                                "$id": 20,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 21,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 22,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 23,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Wczytaj stan gry",
+                                                            "InitValue": "Wczytaj stan gry"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 24,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 25,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Load game",
+                                                            "InitValue": "Load game"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 26,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 27,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Chargement du jeu",
+                                                            "InitValue": "Chargement du jeu"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 28,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 29,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Spiel laden",
+                                                            "InitValue": "Spiel laden"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 30,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 31,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0438\u0433\u0440\u0443",
+                                                            "InitValue": "????????? ????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 32,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 33,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Cargar juego",
+                                                            "InitValue": "Cargar juego"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_menu_save_game",
+                            {
+                                "$id": 34,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 35,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 36,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 37,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Zapisz stan gry",
+                                                            "InitValue": "Zapisz stan gry"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 38,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 39,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Save game",
+                                                            "InitValue": "Save game"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 40,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 41,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Sauvegarder la partie",
+                                                            "InitValue": "Sauvegarder la partie"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 42,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 43,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Spiel speichern",
+                                                            "InitValue": "Spiel speichern"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 44,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 45,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0438\u0433\u0440\u0443",
+                                                            "InitValue": "????????? ????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 46,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 47,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Guardar partida",
+                                                            "InitValue": "Guardar partida"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_menu_exit",
+                            {
+                                "$id": 48,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 49,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 50,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 51,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Wyjd\u017a z gry",
+                                                            "InitValue": "Wyjd\ufffd z gry"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 52,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 53,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Quit game",
+                                                            "InitValue": "Quit game"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 54,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 55,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Quitter le jeu",
+                                                            "InitValue": "Quitter le jeu"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 56,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 57,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Spiel verlassen",
+                                                            "InitValue": "Spiel verlassen"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 58,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 59,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u0412\u044b\u0439\u0442\u0438 \u0438\u0437 \u0438\u0433\u0440\u044b",
+                                                            "InitValue": "????? ?? ????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 60,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 61,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Salir del juego",
+                                                            "InitValue": "Salir del juego"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_menu_main_menu",
+                            {
+                                "$id": 62,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 63,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 64,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 65,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Wyjd\u017a do menu",
+                                                            "InitValue": "Wyjd\ufffd do menu"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 66,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 67,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Exit to the menu",
+                                                            "InitValue": "Exit to the menu"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 68,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 69,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Quitter le menu",
+                                                            "InitValue": "Quitter le menu"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 70,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 71,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Gehe zum Men\u00fc",
+                                                            "InitValue": "Gehe zum Men\ufffd"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 72,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 73,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u0412\u044b\u0445\u043e\u0434 \u0432 \u043c\u0435\u043d\u044e",
+                                                            "InitValue": "????? ? ????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 74,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 75,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Salir al men\u00fa",
+                                                            "InitValue": "Salir al men\ufffd"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_menu_credits",
+                            {
+                                "$id": 76,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 77,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 78,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 79,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Tw\u00f3rcy",
+                                                            "InitValue": "Tw\ufffdrcy"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 80,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 81,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Credits",
+                                                            "InitValue": "Credits"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 82,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 83,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Cr\u00e9dits",
+                                                            "InitValue": "Cr\ufffddits"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 84,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 85,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Credits",
+                                                            "InitValue": "Credits"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 86,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 87,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u041a\u0440\u0435\u0434\u0438\u0442\u044b",
+                                                            "InitValue": "???????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 88,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 89,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Cr\u00e9ditos",
+                                                            "InitValue": "Cr\ufffdditos"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_menu_settings",
+                            {
+                                "$id": 90,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 91,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 92,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 93,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Ustawienia",
+                                                            "InitValue": "Ustawienia"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 94,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 95,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Settings",
+                                                            "InitValue": "Settings"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 96,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 97,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Reprendre",
+                                                            "InitValue": "R\ufffdglages"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 98,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 99,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "die Einstellungen",
+                                                            "InitValue": "die Einstellungen"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 100,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 101,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438",
+                                                            "InitValue": "?????????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 102,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 103,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Configuraciones",
+                                                            "InitValue": "Configuraciones"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_menu_resume",
+                            {
+                                "$id": 104,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 105,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 106,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 107,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Wzn\u00f3w",
+                                                            "InitValue": "Wzn\ufffdw"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 108,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 109,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Resume",
+                                                            "InitValue": "Resume"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 110,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 111,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Rreprendre",
+                                                            "InitValue": "Rreprendre"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 112,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 113,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Weitermachen",
+                                                            "InitValue": "Weitermachen"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 114,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 115,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u0420\u0435\u0437\u044e\u043c\u0435",
+                                                            "InitValue": "??????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 116,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 117,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Reanudar",
+                                                            "InitValue": "Curr\ufffdculum"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_accept",
+                            {
+                                "$id": 118,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 119,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 120,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 121,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Potwierd\u017a",
+                                                            "InitValue": "Potwierd\ufffd"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 122,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 123,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Confirm",
+                                                            "InitValue": "Confirm"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 124,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 125,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Confirmer",
+                                                            "InitValue": "Confirmer"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 126,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 127,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Best\u00e4tigen",
+                                                            "InitValue": "Best\ufffdtigen"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 128,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 129,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044c",
+                                                            "InitValue": "???????????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 130,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 131,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Confirmar",
+                                                            "InitValue": "Confirmar"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_cancel",
+                            {
+                                "$id": 132,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 133,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 134,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 135,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Anuluj",
+                                                            "InitValue": "Anuluj"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 136,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 137,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Cancel",
+                                                            "InitValue": "Cancel"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 138,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 139,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Annuler",
+                                                            "InitValue": "Annuler"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 140,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 141,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Stornieren",
+                                                            "InitValue": "Stornieren"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 142,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 143,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u043e\u0442\u043c\u0435\u043d\u0438\u0442\u044c",
+                                                            "InitValue": "????????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 144,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 145,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Cancelar",
+                                                            "InitValue": "Cancelar"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_select",
+                            {
+                                "$id": 146,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 147,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 148,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 149,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Wybierz",
+                                                            "InitValue": "Wybierz"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 150,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 151,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Select",
+                                                            "InitValue": "Select"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 152,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 153,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "S\u00e9lectionner",
+                                                            "InitValue": "S\ufffdlectionner"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 154,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 155,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "W\u00e4hlen",
+                                                            "InitValue": "W\ufffdhlen"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 156,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 157,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u0412\u044b\u0431\u0440\u0430\u0442\u044c",
+                                                            "InitValue": "???????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 158,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 159,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Seleccione",
+                                                            "InitValue": "Seleccione"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "$type": 4,
+                            "ui_close",
+                            {
+                                "$id": 160,
+                                "$type": 5,
+                                "selected": false,
+                                "data": {
+                                    "$id": 161,
+                                    "$type": 6,
+                                    "comparer": $iref:5,
+                                    "$rlength": 6,
+                                    "$rcontent": [
+                                        {
+                                            "$k": "pl (Polish)",
+                                            "$v": {
+                                                "$id": 162,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 163,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Zamknij",
+                                                            "InitValue": "Zamknij"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "en (English)",
+                                            "$v": {
+                                                "$id": 164,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 165,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Close",
+                                                            "InitValue": "Close"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "fr (French)",
+                                            "$v": {
+                                                "$id": 166,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 167,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Fermer",
+                                                            "InitValue": "Fermer"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "de (German)",
+                                            "$v": {
+                                                "$id": 168,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 169,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Schlie\u00dfen",
+                                                            "InitValue": "Schlie\ufffden"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "ru (Russian)",
+                                            "$v": {
+                                                "$id": 170,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 171,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "\u0417\u0430\u043a\u0440\u044b\u0442\u044c",
+                                                            "InitValue": "???????"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "$k": "es (Spanish)",
+                                            "$v": {
+                                                "$id": 172,
+                                                "$type": 8,
+                                                "comparer": $iref:7,
+                                                "$rlength": 1,
+                                                "$rcontent": [
+                                                    {
+                                                        "$k": $iref:8,
+                                                        "$v": {
+                                                            "$id": 173,
+                                                            "$type": 11,
+                                                            "OnValueChanged": null,
+                                                            "_string": "Cerca",
+                                                            "InitValue": "Cerca"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
