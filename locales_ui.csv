@@ -1,13 +1,13 @@
-"Key","pl (Polish)","en (English)","fr (French)","de (German)","ru (Russian)","es (Spanish)"
-"ui_menu_new_game","Nowa Gra","","","","",""
-"ui_menu_load_game","Wczytaj stan gry","","","","",""
-"ui_menu_save_game","Zapisz stan gry","","","","",""
-"ui_menu_exit","Wyjd≈∫ z gry","","","","",""
-"ui_menu_main_menu","Wyjd≈∫ do menu","","","","",""
-"ui_menu_credits","Tw√≥rcy","","","","",""
-"ui_menu_settings","Ustawienia","","","","",""
-"ui_menu_resume","Wzn√≥w","","","","",""
-"ui_accept","Potwierd≈∫","","","","",""
-"ui_cancel","Anuluj","","","","",""
-"ui_select","Wybierz","","","","",""
-"ui_close","Zamknij","","","","",""
+Key;pl (Polish);en (English);fr (French);de (German);ru (Russian);es (Spanish)
+ui_menu_new_game;Nowa Gra;New game;Nouveau jeu;Neues Spiel;????? ????;Nuevo juego
+ui_menu_load_game;Wczytaj stan gry;Load game;Chargement du jeu;Spiel laden;????????? ????;Cargar juego
+ui_menu_save_game;Zapisz stan gry;Save game;Sauvegarder la partie;Spiel speichern;????????? ????;Guardar partida
+ui_menu_exit;Wyjdü z gry;Quit game;Quitter le jeu;Spiel verlassen;????? ?? ????;Salir del juego
+ui_menu_main_menu;Wyjdü do menu;Exit to the menu;Quitter le menu;Gehe zum Men¸;????? ? ????;Salir al men˙
+ui_menu_credits;TwÛrcy;Credits;CrÈdits;Credits;???????;CrÈditos
+ui_menu_settings;Ustawienia;Settings;Reprendre;die Einstellungen;?????????;Configuraciones
+ui_menu_resume;WznÛw;Resume;Rreprendre;Fortsetzen;??????;Reanudar
+ui_accept;Potwierdü;Confirm;Confirmer;Best‰tigen;???????????;Confirmar
+ui_cancel;Anuluj;Cancel;Annuler;Stornieren;????????;Cancelar
+ui_select;Wybierz;Select;SÈlectionner;W‰hlen;???????;Seleccione
+ui_close;Zamknij;Close;Fermer;Schlieﬂen;???????;Cerca
